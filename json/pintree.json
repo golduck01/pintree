@@ -2,432 +2,40 @@
   {
     "type": "folder",
     "addDate": 1615298943265,
-    "title": "收藏夹栏",
+    "title": "其他收藏夹",
     "children": [
       {
-        "type": "link",
-        "addDate": 1578897535227,
-        "title": "百度一下，你就知道",
-        "icon": "https://logo.clearbit.com/bdxpq.favopen.com",
-        "url": "http://bdxpq.favopen.com/n1023_bd"
-      },
-      {
-        "type": "link",
-        "addDate": 1593400284356,
-        "title": "Redmine",
-        "icon": "https://logo.clearbit.com/60.205.231.85",
-        "url": "http://60.205.231.85:3000/login"
-      },
-      {
-        "type": "link",
-        "addDate": 1596762453864,
-        "title": "老板的设计",
-        "icon": "https://logo.clearbit.com/newtab",
-        "url": "chrome://newtab/"
-      },
-      {
-        "type": "link",
-        "addDate": 1597757443140,
-        "title": "【在线PS】PS软件网页版，ps在线图片处理工具photopea-稿定设计PS",
-        "icon": "https://logo.clearbit.com/ps.gaoding.com",
-        "url": "https://ps.gaoding.com/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1602404393065,
-        "title": "欢迎 - 考试院自考系统",
-        "icon": "https://logo.clearbit.com/zk.sceea.cn",
-        "url": "https://zk.sceea.cn/group/ks"
-      },
-      {
-        "type": "link",
-        "addDate": 1681922195905,
-        "title": "EFCloud",
-        "icon": "https://logo.clearbit.com/www.efcloud.net",
-        "url": "https://www.efcloud.net/#/dashboard"
-      },
-      {
-        "type": "link",
-        "addDate": 1683548472685,
-        "title": "交付第一个应用 | KubeVela",
-        "icon": "https://logo.clearbit.com/static.kubevela.net",
-        "url": "http://static.kubevela.net/zh/docs/quick-start"
-      },
-      {
-        "type": "link",
-        "addDate": 1684855219731,
-        "title": "felixfbecker/node-sql-template-strings: ES6 tagged template strings for prepared SQL statements 📋",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/felixfbecker/node-sql-template-strings"
-      },
-      {
-        "type": "link",
-        "addDate": 1684856621827,
-        "title": "我听过的 - mmPlayer在线音乐播放器",
-        "icon": "https://logo.clearbit.com/netease-music.fe-mm.com",
-        "url": "https://netease-music.fe-mm.com/#/music/details/3136179094"
-      },
-      {
-        "type": "link",
-        "addDate": 1685713292831,
-        "title": "AwA | HANDSOME-CSS3-LIB",
-        "icon": "https://logo.clearbit.com/www.handsome-css.com",
-        "url": "https://www.handsome-css.com/show-all"
-      },
-      {
-        "type": "link",
-        "addDate": 1667185459212,
-        "title": "react-native-template-typescript/build.gradle at main · react-native-community/react-native-template-typescript · GitHub",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/react-native-community/react-native-template-typescript/blob/main/template/android/build.gradle"
-      },
-      {
-        "type": "link",
-        "addDate": 1685868516668,
-        "title": "Blaze | File sharing web app ⚡",
-        "icon": "https://logo.clearbit.com/blaze.vercel.app",
-        "url": "https://blaze.vercel.app/"
-      },
-      {
-        "type": "link",
-        "addDate": 1676022607048,
-        "title": "Quill - Your powerful rich text editor",
-        "icon": "https://logo.clearbit.com/quilljs.com",
-        "url": "https://quilljs.com/"
-      },
-      {
         "type": "folder",
-        "addDate": 1686146515231,
-        "title": "漂亮的参考网站",
+        "addDate": 1721871238162,
+        "title": "前端面试",
         "children": [
           {
             "type": "link",
-            "addDate": 1686146631020,
-            "title": "郑好有 - 郑州本地企业供需匹配平台",
-            "icon": "https://logo.clearbit.com/www.zhenghaoyou.com",
-            "url": "https://www.zhenghaoyou.com/"
+            "addDate": 1709827913270,
+            "title": "CodeCV简历/设计/运营/商务",
+            "icon": "https://logo.clearbit.com/codecv.top",
+            "url": "https://codecv.top/edit?type=7simple_avatar"
           },
           {
             "type": "link",
-            "addDate": 1686146555626,
-            "title": "广达制造总部",
-            "icon": "https://logo.clearbit.com/www.quantacn.com",
-            "url": "https://www.quantacn.com/TestingLaboratories/info.aspx?itemid=32"
-          },
-          {
-            "type": "link",
-            "addDate": 1686146390028,
-            "title": "世界工厂网-世界工厂尽在世界工厂网",
-            "icon": "https://logo.clearbit.com/www.gongchang.com",
-            "url": "https://www.gongchang.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1686146688109,
-            "title": "破碎机,磨粉机,制砂机,移动破碎站-上海世邦工业科技集团股份有限公司官方网站",
-            "icon": "https://logo.clearbit.com/www.shibangchina.com",
-            "url": "https://www.shibangchina.com/"
+            "addDate": 1721871248425,
+            "title": "web前端面试 - 面试官系列",
+            "icon": "https://logo.clearbit.com/vue3js.cn",
+            "url": "https://vue3js.cn/interview/"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1686706204198,
-        "title": "二维码美化",
-        "icon": "https://logo.clearbit.com/qrbtf.com",
-        "url": "https://qrbtf.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1686758341016,
-        "title": "竣工工程_贵州磷石膏砌块工艺_贵州磷石膏轻质抹灰砂浆厂家_磷石膏价格_贵州捷众森建材有限公司",
-        "icon": "https://logo.clearbit.com/www.jiezhongsen.cn",
-        "url": "https://www.jiezhongsen.cn/news/8/"
-      },
-      {
-        "type": "link",
-        "addDate": 1603801997083,
-        "title": "NPM镜像-NPM下载地址-NPM安装教程-阿里巴巴开源镜像站",
-        "icon": "https://logo.clearbit.com/developer.aliyun.com",
-        "url": "https://developer.aliyun.com/mirror/NPM?from=tnpm"
-      },
-      {
-        "type": "link",
-        "addDate": 1686661990388,
-        "title": "程序员导航",
-        "icon": "https://logo.clearbit.com/cxysite.com",
-        "url": "http://cxysite.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1686667134361,
-        "title": "Animista - On-Demand CSS Animations Library",
-        "icon": "https://logo.clearbit.com/animista.net",
-        "url": "https://animista.net/play/entrances/slide-in"
-      },
-      {
-        "type": "link",
-        "addDate": 1686661849384,
-        "title": "不求人导航 | 专业导航网站",
-        "icon": "https://logo.clearbit.com/www.bqrdh.com",
-        "url": "https://www.bqrdh.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1604228005090,
-        "title": "Vue Antd Admin",
-        "icon": "https://logo.clearbit.com/iczer.github.io",
-        "url": "https://iczer.github.io/vue-antd-admin/"
-      },
-      {
-        "type": "link",
-        "addDate": 1687272192112,
-        "title": "PearOCR，在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
-        "icon": "https://logo.clearbit.com/pearocr.com",
-        "url": "https://pearocr.com/#/"
-      },
-      {
-        "type": "link",
-        "addDate": 1687276881085,
-        "title": "内容管理 - SZDMA-ERP",
-        "icon": "https://logo.clearbit.com/admin.gzlbzc.tagsoft.cn",
-        "url": "http://admin.gzlbzc.tagsoft.cn/cms/article"
-      },
-      {
-        "type": "link",
-        "addDate": 1687833012946,
-        "title": "Wormhole - 简单、私密的文件共享",
-        "icon": "https://logo.clearbit.com/wormhole.app",
-        "url": "https://wormhole.app/"
-      },
-      {
-        "type": "link",
-        "addDate": 1594430682632,
-        "title": "2020最新JetBrains家族ide激活码（即时更新）",
-        "icon": "https://logo.clearbit.com/www.soft-hub.cn",
-        "url": "http://www.soft-hub.cn/article/4.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1598112453888,
-        "title": "Intellij idea全家桶永久激活码免费领取，jetbrains全家桶注册码，pycharm激活码，phpstorm激活码，webstorm激活码",
-        "icon": "https://logo.clearbit.com/idea.medeming.com",
-        "url": "http://idea.medeming.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1598168305356,
-        "title": "Vue App",
-        "icon": "https://logo.clearbit.com/police.szdma.com",
-        "url": "http://police.szdma.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1604315134419,
-        "title": "以往的版本 | Node.js",
-        "icon": "https://logo.clearbit.com/nodejs.org",
-        "url": "https://nodejs.org/zh-cn/download/releases/"
-      },
-      {
-        "type": "link",
-        "addDate": 1611323912950,
-        "title": "建站如此简单（流程篇）_网站",
-        "icon": "https://logo.clearbit.com/www.sohu.com",
-        "url": "https://www.sohu.com/a/302599189_120100298"
-      },
-      {
-        "type": "link",
-        "addDate": 1688564389660,
-        "title": "4K壁纸_4K手机壁纸_4K高清壁纸大全_电脑壁纸_4K,5K,6K,7K,8K壁纸图片素材_彼岸图网",
-        "icon": "https://logo.clearbit.com/pic.netbian.com",
-        "url": "https://pic.netbian.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1688569552318,
-        "title": "Previous Releases | Node.js",
-        "icon": "https://logo.clearbit.com/nodejs.org",
-        "url": "https://nodejs.org/en/download/releases"
-      },
-      {
-        "type": "link",
-        "addDate": 1688662029929,
-        "title": "网站源码下载_php网站源码_整站源码_免费网站源码 - 站长素材网",
-        "icon": "https://logo.clearbit.com/www.zzsucai.com",
-        "url": "https://www.zzsucai.com/source/"
-      },
-      {
-        "type": "link",
-        "addDate": 1688662034672,
-        "title": "Fantastic-admin - HTML源码网",
-        "icon": "https://logo.clearbit.com/www.uihtm.com",
-        "url": "https://www.uihtm.com/tag/Fantastic-admin.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1593401838379,
-        "title": "专业配音员配音 真人配音服务，配音员价格在线配音—自媒体视频配音平台",
-        "icon": "https://logo.clearbit.com/www.peiyinquan.com",
-        "url": "https://www.peiyinquan.com/search"
-      },
-      {
-        "type": "link",
-        "addDate": 1593421491350,
-        "title": "Vue Element Admin",
-        "icon": "https://logo.clearbit.com/manager.peiyinquan.com",
-        "url": "http://manager.peiyinquan.com/#/dashboard"
-      },
-      {
-        "type": "link",
-        "addDate": 1627635732688,
-        "title": "配音圈前台地址",
-        "icon": "https://logo.clearbit.com/dingying.natapp1.cc",
-        "url": "http://dingying.natapp1.cc/external_view/swagger-ui.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1627635815160,
-        "title": "配音圈后台地址",
-        "icon": "https://logo.clearbit.com/dingying.natapp1.cc",
-        "url": "http://dingying.natapp1.cc/inside_view/swagger-ui.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1627982664693,
-        "title": "H5录音实践总结(Preact) - 知乎",
-        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-        "url": "https://zhuanlan.zhihu.com/p/138760978"
-      },
-      {
-        "type": "link",
-        "addDate": 1627982872157,
-        "title": "浅谈H5音频处理（更多谈谈录音方向的内容）_?Briella的博客-CSDN博客",
-        "icon": "https://logo.clearbit.com/blog.csdn.net",
-        "url": "https://blog.csdn.net/weixin_33738982/article/details/91422505"
-      },
-      {
-        "type": "link",
-        "addDate": 1627985263602,
-        "title": "Web Audio API - Web API 接口参考 | MDN",
-        "icon": "https://logo.clearbit.com/developer.mozilla.org",
-        "url": "https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Audio_API"
-      },
-      {
-        "type": "link",
-        "addDate": 1628773731022,
-        "title": "话题 | LOFTER（乐乎） - 让兴趣，更有趣",
-        "icon": "https://logo.clearbit.com/www.lofter.com",
-        "url": "https://www.lofter.com/activity?act=qbview_20130930_03"
-      },
-      {
-        "type": "link",
-        "addDate": 1640525409262,
-        "title": "小米Pro黑果",
-        "icon": "https://logo.clearbit.com/blog.daliansky.net",
-        "url": "https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1653492110246,
-        "title": "Nest.js 中文文档",
-        "icon": "https://logo.clearbit.com/docs.nestjs.cn",
-        "url": "https://docs.nestjs.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1653572759503,
-        "title": "15个免费好用的抓包工具 - 走看看",
-        "icon": "https://logo.clearbit.com/t.zoukankan.com",
-        "url": "http://t.zoukankan.com/jpfss-p-10193887.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1655212723410,
-        "title": "刘叔叔的后台",
-        "icon": "https://logo.clearbit.com/api.cms.tagsoft.cn",
-        "url": "https://api.cms.tagsoft.cn/login"
-      },
-      {
-        "type": "link",
-        "addDate": 1668317566715,
-        "title": "AMD Radeon RX 5600 XT 显卡基准测试结果 - AMD Ryzen 5 3600,Gigabyte Technology Co., Ltd. B450M S2H",
-        "icon": "https://logo.clearbit.com/www.3dmark.com",
-        "url": "https://www.3dmark.com/3dm11/15384670"
-      },
-      {
-        "type": "link",
-        "addDate": 1670767920946,
-        "title": "个人技术分享-程序员导航cxy521",
-        "icon": "https://logo.clearbit.com/cxy521.com",
-        "url": "https://cxy521.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1670767973506,
-        "title": "24k导航 | 专注全网优质网址、优质资源分享。",
-        "icon": "https://logo.clearbit.com/www.24kdh.com",
-        "url": "https://www.24kdh.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1670768208338,
-        "title": "虫部落 - 让搜索更简单",
-        "icon": "https://logo.clearbit.com/www.chongbuluo.com",
-        "url": "https://www.chongbuluo.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1691592297469,
-        "title": "成都市住房和城乡建设局",
-        "icon": "https://logo.clearbit.com/cdzj.chengdu.gov.cn",
-        "url": "http://cdzj.chengdu.gov.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1691592629837,
-        "title": "住建蓉e办",
-        "icon": "https://logo.clearbit.com/zw.cdzjryb.com",
-        "url": "https://zw.cdzjryb.com/publicCAS/citizenPerson/personal#"
-      },
-      {
-        "type": "link",
-        "addDate": 1691592702253,
-        "title": "在成都怎么申请保障性租赁住房？- 成都本地宝",
-        "icon": "https://logo.clearbit.com/cd.bendibao.com",
-        "url": "http://cd.bendibao.com/fangchan/2023619/163792.shtm"
-      },
-      {
-        "type": "link",
-        "addDate": 1691831588146,
-        "title": "自动化编辑器 自动化寻找指定物品_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1CD4y1x7Vq/?spm_id_from=333.337.search-card.all.click&vd_source=f79976de75d6d7e56e1f2777203f0668"
-      },
-      {
-        "type": "link",
-        "addDate": 1691837667628,
-        "title": "花市鲜花网-网上花店_鲜花预定{订}_异地网上订花_网上送花网_鲜花速递网",
-        "icon": "https://logo.clearbit.com/www.ihuashi.cn",
-        "url": "http://www.ihuashi.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1694844135064,
-        "title": "iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具",
-        "icon": "https://logo.clearbit.com/www.ilovepdf.com",
-        "url": "https://www.ilovepdf.com/zh-cn"
-      },
-      {
         "type": "folder",
-        "addDate": 1701699829814,
-        "title": "Rust",
+        "addDate": 1721871093275,
+        "title": "Rust 学习",
         "children": [
           {
             "type": "link",
-            "addDate": 1701699787374,
-            "title": "关于本书 - Rust语言圣经(Rust Course)",
-            "icon": "https://logo.clearbit.com/course.rs",
-            "url": "https://course.rs/about-book.html"
+            "addDate": 1705816222459,
+            "title": "图像梯度",
+            "icon": "https://logo.clearbit.com/apachecn.github.io",
+            "url": "https://apachecn.github.io/opencv-doc-zh/#/docs/4.0.0/4.6-tutorial_py_gradients"
           },
           {
             "type": "link",
@@ -438,45 +46,38 @@
           },
           {
             "type": "link",
-            "addDate": 1702566738156,
-            "title": "Lib.rs — Rust 板条箱的家 // Lib.rs",
-            "icon": "https://logo.clearbit.com/lib.rs",
-            "url": "https://lib.rs/"
+            "addDate": 1701699787374,
+            "title": "关于本书 - Rust语言圣经(Rust Course)",
+            "icon": "https://logo.clearbit.com/course.rs",
+            "url": "https://course.rs/about-book.html"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1705816236033,
-        "title": "opencv",
+        "addDate": 1721871046413,
+        "title": "网站导航",
         "children": [
           {
             "type": "link",
-            "addDate": 1705816222459,
-            "title": "图像梯度",
-            "icon": "https://logo.clearbit.com/apachecn.github.io",
-            "url": "https://apachecn.github.io/opencv-doc-zh/#/docs/4.0.0/4.6-tutorial_py_gradients"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "addDate": 1709827913270,
-        "title": "CodeCV简历/设计/运营/商务",
-        "icon": "https://logo.clearbit.com/codecv.top",
-        "url": "https://codecv.top/edit?type=7simple_avatar"
-      },
-      {
-        "type": "folder",
-        "addDate": 1615298949077,
-        "title": "收藏夹栏",
-        "children": [
+            "addDate": 1670767973506,
+            "title": "24k导航 | 专注全网优质网址、优质资源分享。",
+            "icon": "https://logo.clearbit.com/www.24kdh.com",
+            "url": "https://www.24kdh.com/"
+          },
           {
             "type": "link",
-            "addDate": 1714623623453,
-            "title": "四川省水旱灾害防御信息系统",
-            "icon": "https://logo.clearbit.com/www.scshzh.com",
-            "url": "https://www.scshzh.com/login"
+            "addDate": 1670767920946,
+            "title": "个人技术分享-程序员导航cxy521",
+            "icon": "https://logo.clearbit.com/cxy521.com",
+            "url": "https://cxy521.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686661849384,
+            "title": "不求人导航 | 专业导航网站",
+            "icon": "https://logo.clearbit.com/www.bqrdh.com",
+            "url": "https://www.bqrdh.com/"
           },
           {
             "type": "link",
@@ -484,71 +85,240 @@
             "title": "学霸盘 - 百度网盘学习资料搜索下载神器",
             "icon": "https://logo.clearbit.com/www.xuebapan.com",
             "url": "https://www.xuebapan.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1717225612263,
-            "title": "面试官：说说对Redux中间件的理解？常用的中间件有哪些？实现原理？ | web前端面试 - 面试官系列",
-            "icon": "https://logo.clearbit.com/vue3js.cn",
-            "url": "https://vue3js.cn/interview/React/Redux%20Middleware.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88"
-          },
-          {
-            "type": "link",
-            "addDate": 1717655057108,
-            "title": "西南交通大学招聘网",
-            "icon": "https://logo.clearbit.com/cpyc.swjtu.edu.cn",
-            "url": "https://cpyc.swjtu.edu.cn/base/frame/main.jsp?FM_SYS_ID=xnjd&FM_SYS_CODE=SYSTEM_RECRUIT#desktop"
           }
         ]
       },
       {
-        "type": "link",
-        "addDate": 1574301320697,
-        "title": "修改服务-配音圈",
-        "icon": "https://logo.clearbit.com/talent.peiyinquan.com",
-        "url": "https://talent.peiyinquan.com/server?gigId=416"
+        "type": "folder",
+        "addDate": 1721871010689,
+        "title": "css 动画",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1686667134361,
+            "title": "Animista - On-Demand CSS Animations Library",
+            "icon": "https://logo.clearbit.com/animista.net",
+            "url": "https://animista.net/play/entrances/slide-in"
+          },
+          {
+            "type": "link",
+            "addDate": 1685713292831,
+            "title": "动画库国内-AwA",
+            "icon": "https://logo.clearbit.com/www.handsome-css.com",
+            "url": "https://www.handsome-css.com/show-all"
+          },
+          {
+            "type": "link",
+            "addDate": 1721873259631,
+            "title": "framer/motion：可视化调配动画-用于 React 的开源、生产就绪的动画和手势库",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/framer/motion?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1721873568487,
+            "title": "AutoAnimate - 只需一行代码即可将动作添加到您的应用程序中",
+            "icon": "https://logo.clearbit.com/auto-animate.formkit.com",
+            "url": "https://auto-animate.formkit.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721873657494,
+            "title": "anime.js • JavaScript 动画引擎",
+            "icon": "https://logo.clearbit.com/animejs.com",
+            "url": "https://animejs.com/"
+          }
+        ]
       },
       {
-        "type": "link",
-        "addDate": 1574301334893,
-        "title": "配音兼职平台_专业网络配音在线交易网站-配音圈",
-        "icon": "https://logo.clearbit.com/www.peiyinquan.com",
-        "url": "https://www.peiyinquan.com/"
+        "type": "folder",
+        "addDate": 1721871907502,
+        "title": "常用工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1688564389660,
+            "title": "4K壁纸_4K手机壁纸_4K高清壁纸大全_电脑壁纸_4K,5K,6K,7K,8K壁纸图片素材_彼岸图网",
+            "icon": "https://logo.clearbit.com/pic.netbian.com",
+            "url": "https://pic.netbian.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687272192112,
+            "title": "PearOCR，在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
+            "icon": "https://logo.clearbit.com/pearocr.com",
+            "url": "https://pearocr.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687833012946,
+            "title": "Wormhole - 简单、私密的文件共享",
+            "icon": "https://logo.clearbit.com/wormhole.app",
+            "url": "https://wormhole.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686706204198,
+            "title": "二维码美化",
+            "icon": "https://logo.clearbit.com/qrbtf.com",
+            "url": "https://qrbtf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1685868516668,
+            "title": "文件传输 Blaze | File sharing web app ⚡",
+            "icon": "https://logo.clearbit.com/blaze.vercel.app",
+            "url": "https://blaze.vercel.app/"
+          }
+        ]
       },
       {
-        "type": "link",
-        "addDate": 1581058814653,
-        "title": "百度一下",
-        "icon": "https://logo.clearbit.com/www.baidu.com",
-        "url": "https://www.baidu.com/?tn=98012088_10_dg&ch=3"
+        "type": "folder",
+        "addDate": 1721871527261,
+        "title": "美工设计",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1597757443140,
+            "title": "【在线PS】PS软件网页版，ps在线图片处理工具photopea-稿定设计PS",
+            "icon": "https://logo.clearbit.com/ps.gaoding.com",
+            "url": "https://ps.gaoding.com/#/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721871570109,
+        "title": "VPN",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1681922195905,
+            "title": "EFCloud",
+            "icon": "https://logo.clearbit.com/www.efcloud.net",
+            "url": "https://www.efcloud.net/#/dashboard"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721871781323,
+        "title": "nodejs 工具库",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1604315134419,
+            "title": "以往的版本 | Node.js",
+            "icon": "https://logo.clearbit.com/nodejs.org",
+            "url": "https://nodejs.org/zh-cn/download/releases/"
+          },
+          {
+            "type": "link",
+            "addDate": 1684855219731,
+            "title": "SQL 模板字符串",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/felixfbecker/node-sql-template-strings"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721872077286,
+        "title": "JS 库",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1676022607048,
+            "title": "富文本-功能丰富-vue常用-Quill",
+            "icon": "https://logo.clearbit.com/quilljs.com",
+            "url": "https://quilljs.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721873088599,
+            "title": "富文本-现代化笔记-slate",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/ianstormtaylor/slate"
+          },
+          {
+            "type": "link",
+            "addDate": 1721873362406,
+            "title": "富文本-基于slate-Plate",
+            "icon": "https://logo.clearbit.com/platejs.org",
+            "url": "https://platejs.org/docs"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721872330335,
+        "title": "项目管理",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1683548472685,
+            "title": "交付第一个应用 | KubeVela",
+            "icon": "https://logo.clearbit.com/static.kubevela.net",
+            "url": "http://static.kubevela.net/zh/docs/quick-start"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721872590062,
+        "title": "公司网站",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1574301334893,
+            "title": "配音兼职平台_专业网络配音在线交易网站-配音圈",
+            "icon": "https://logo.clearbit.com/www.peiyinquan.com",
+            "url": "https://www.peiyinquan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687276881085,
+            "title": "内容管理 - SZDMA-ERP",
+            "icon": "https://logo.clearbit.com/admin.gzlbzc.tagsoft.cn",
+            "url": "http://admin.gzlbzc.tagsoft.cn/cms/article"
+          },
+          {
+            "type": "link",
+            "addDate": 1593421491350,
+            "title": "Vue Element Admin",
+            "icon": "https://logo.clearbit.com/manager.peiyinquan.com",
+            "url": "http://manager.peiyinquan.com/#/dashboard"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721872648121,
+        "title": "社区交流",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1670768208338,
+            "title": "虫部落 - 让搜索更简单",
+            "icon": "https://logo.clearbit.com/www.chongbuluo.com",
+            "url": "https://www.chongbuluo.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1628773731022,
+            "title": "话题 | LOFTER（乐乎） - 让兴趣，更有趣",
+            "icon": "https://logo.clearbit.com/www.lofter.com",
+            "url": "https://www.lofter.com/activity?act=qbview_20130930_03"
+          },
+          {
+            "type": "link",
+            "addDate": 1721872764992,
+            "title": "电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始",
+            "icon": "https://logo.clearbit.com/eleduck.com",
+            "url": "https://eleduck.com/"
+          }
+        ]
       }
     ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1615298943265,
-    "title": "其他收藏夹",
-    "children": [
-      {
-        "type": "link",
-        "addDate": 1712404784491,
-        "title": "图片JPG转PDF - 免费图片转PDF在线转换工具 - 转转大师",
-        "icon": "https://logo.clearbit.com/pdftoword.55.la",
-        "url": "https://pdftoword.55.la/jpg-to-pdf/"
-      },
-      {
-        "type": "link",
-        "addDate": 1581058814686,
-        "title": "百度一下",
-        "icon": "https://logo.clearbit.com/www.baidu.com",
-        "url": "https://www.baidu.com/?tn=98012088_10_dg&ch=3"
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1721615962953,
-    "title": "已删除收藏夹",
-    "children": []
   }
 ]
